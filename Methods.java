@@ -1,9 +1,4 @@
-
-public class Methods {
-
-	public static void main(String[] args) {
-		
-		/**
+	/**
 		 * 1. Create a void method called stateName() that prints out your name. 
 		 * Repeat this task for stateEyeColor(), stateHairStyle(), stateBestFriend(), 
 		 * and stateFavoriteFood(). Then, call stateName(), stateHairStyle, and stateFavoriteFood().
@@ -17,6 +12,9 @@ public class Methods {
 		 * modulus the second number. Call it to make sure it works.
 		 */
 
+public class Methods {
+
+	public static void main(String[] args) {
 		
 		//Task 1 (Calls my methods to see if they work [with prettieness :)]
 		System.out.println("Profile:");
