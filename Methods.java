@@ -1,4 +1,5 @@
-	/**
+	
+		/**
 		 * 1. Create a void method called stateName() that prints out your name. 
 		 * Repeat this task for stateEyeColor(), stateHairStyle(), stateBestFriend(), 
 		 * and stateFavoriteFood(). Then, call stateName(), stateHairStyle, and stateFavoriteFood().
@@ -16,7 +17,8 @@ public class Methods {
 
 	public static void main(String[] args) {
 		
-		//Task 1 (Calls my methods to see if they work [with prettieness :)]
+		//(Calls my methods to see if they work [with prettieness :)]
+		//Task 1 
 		System.out.println("Profile:");
 		System.out.println(" ");
 		stateName();
@@ -25,11 +27,13 @@ public class Methods {
 		System.out.println(" ");
 		
 		//Task 2 
-		printCircleStats(2.0);
+		//You can switch the numbers in the parenthesis for different outcomes.
+		printCircleStats(4.0);
 		System.out.println(" ");
 		
 		//Task 3
-		printMathsStuffs(1,2);
+		//You can switch the numbers in the parenthesis for different outcomes.
+		printMathsStuffs(2,2);
 		
 	}
 
